@@ -1,0 +1,6 @@
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\LogMonitor.Core\bin\Debug\netstandard2.0\LogMonitor.Core.deps.json
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\LogMonitor.Core\bin\Debug\netstandard2.0\LogMonitor.Core.dll
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\LogMonitor.Core\obj\Debug\netstandard2.0\LogMonitor.Core.csprojAssemblyReference.cache
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\LogMonitor.Core\obj\Debug\netstandard2.0\LogMonitor.Core.csproj.CoreCompileInputs.cache
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\LogMonitor.Core\obj\Debug\netstandard2.0\LogMonitor.Core.AssemblyInfoInputs.cache
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\LogMonitor.Core\obj\Debug\netstandard2.0\LogMonitor.Core.AssemblyInfo.cs

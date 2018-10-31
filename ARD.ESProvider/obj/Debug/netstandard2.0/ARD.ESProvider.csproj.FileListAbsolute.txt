@@ -1,0 +1,8 @@
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\ARD.ESProvider\bin\Debug\netstandard2.0\ARD.ESProvider.deps.json
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\ARD.ESProvider\bin\Debug\netstandard2.0\ARD.ESProvider.dll
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\ARD.ESProvider\obj\Debug\netstandard2.0\ARD.ESProvider.csproj.CoreCompileInputs.cache
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\ARD.ESProvider\obj\Debug\netstandard2.0\ARD.ESProvider.AssemblyInfoInputs.cache
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\ARD.ESProvider\obj\Debug\netstandard2.0\ARD.ESProvider.AssemblyInfo.cs
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\ARD.ESProvider\bin\Debug\netstandard2.0\ARD.ESProvider.pdb
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\ARD.ESProvider\obj\Debug\netstandard2.0\ARD.ESProvider.dll
+D:\Workspace\Charp\njwg\LogMonitor\LogMonitor\ARD.ESProvider\obj\Debug\netstandard2.0\ARD.ESProvider.pdb
